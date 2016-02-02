@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/duo-setup-cli.dir/main.cpp.o CMakeFiles/duo-setup-cli.dir/mainwindow.cpp.o CMakeFiles/duo-setup-cli.dir/duo-setup-cli_automoc.cpp.o  -o duo-setup-cli -rdynamic /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.2.1 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.2.1 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.2.1 

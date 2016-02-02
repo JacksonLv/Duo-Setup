@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+e6e9828adcfa49d6eb9dd76a0a1275f9 CMakeFiles/duo-setup-cli_automoc
+c368c878c62088f43c789f7e58f7f5fd ui_mainwindow.h
