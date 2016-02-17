@@ -1,0 +1,2 @@
+/Users/Guohui/DuoSetup-build/CMakeFiles/duo-setup-cli.dir
+/Users/Guohui/DuoSetup-build/CMakeFiles/duo-setup-cli_automoc.dir
